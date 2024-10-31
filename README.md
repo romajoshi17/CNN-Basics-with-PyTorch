@@ -1,2 +1,2 @@
 # CNN-Basics-with-PyTorch
-Covering the basics of building a Convolution Neural Network Model with the python library PyTorch
+This repository contains a jupyter notebook which covers the basics of building a Convolution Neural Network (CNN) model with the python library PyTorch.
